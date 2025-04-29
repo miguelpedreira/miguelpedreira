@@ -56,3 +56,19 @@
 
     </body>
 </html>
+
+
+body{
+background: burlywood;
+inline-size: none;
+text-align: center;
+}
+.whatzap{
+    width: 100px;
+    float: right;
+    vertical-align: top;
+}
+.fale-conosco{
+background: rgb(161, 159, 154);
+}
+
