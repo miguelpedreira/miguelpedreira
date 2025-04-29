@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>miguel</title>
+    </head>
+    <body>
+        <h1 id="cabecalho" class="fondo-verde">Para aprender voçe precisa
+            codar</h1>
+
+        <p> voçe precisa codar para melhorar seus <b>conhecimentos</b><br>
+            voçe precisa codar para melhorar seus conhecimentos.<br>
+            voçe precisa coda pra melhorar.
+            pra melhorar voçe codar .<br>
+            ter imtimidade com os codigos .<br>
+            os codigos sao incriveis.<br>
+            o bom de todas as coisa e voçe sabe oque esta fazendo.<br>
+            fico feliz por esta entendendo os codigos .
+        </p>
+        <a href="https://wa.me/message/J5UGIM3OPIWEC1" target="_blank" class="fale-conosco">fale
+            conosco</a>
+        <h2> Aprender sempre e bom</h2>
+        <p>
+            oque voçe aprende niguem tira de voçe. <br>
+            nao importa o quanto voçe vai ganhar financeiramente <br>
+            oque voçe aprendeu niguem ira tira de voçe
+        </p>
+        <a href="https://wa.me/message/J5UGIM3OPIWEC1" target="_blank"> <img
+                src="./img/whatsapp1.png 
+            " alt="whatzap" id="logo" class="whatzap"></a>
+        <h3>
+            Acredite
+        </h3>
+        <p>
+            acredite no poder dos seus <b>sonhos</b> e no seu potencial <br>
+            com determinaçao e persistencia <br>
+            voçe e capaz de alcançar grandes feitos! <br>
+            cada novo dia e uma chance para lutar e vencer <br>
+            viva com gratidao , trabalhe incansavelmente e,<br>
+            mesmo que demore , voçe vai chegar onde deseja
+
+        </p>
+        <h4>
+            Voçe e muito forte
+        </h4>
+        <p>
+            voçe e mais forte do que imagina ! confie nas suas <br>
+            capacidades, mantenha uma atitude positiva e <br>
+            jamais pense sequer em desistir dos seus sonhos.<br>
+            
+
+        </p>
+        <hr>
+
+    </body>
+</html>
